@@ -7,7 +7,9 @@
     "example": "examples",
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "http-proxy": "^1.14.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "mocha"
